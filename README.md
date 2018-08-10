@@ -11,7 +11,7 @@ Calculates the factorial of large numbers using doubly linked list
 ## Features to add
 
 - Rigorous input verification
-- flag to display just the factorial and not <num>!= ...
+- flag to display just the factorial and not [num]!= ...
 - flag to display misc information like number of trailing zeroes, number of digits, etc
 
 ## How to use?
