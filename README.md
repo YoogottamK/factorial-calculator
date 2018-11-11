@@ -1,4 +1,4 @@
-# facorial-calculator
+# factorial-calculator
 
 Calculates the factorial of large numbers using doubly linked list
 
